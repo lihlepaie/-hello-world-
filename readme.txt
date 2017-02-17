@@ -1,0 +1,2 @@
+greeting atom
+hi atom
